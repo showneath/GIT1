@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 souvik
 shonit
+=======
+gayathiri
+siri
+>>>>>>> feature2
